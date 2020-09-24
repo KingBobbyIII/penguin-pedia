@@ -1,0 +1,60 @@
+ html {
+     color:navy;
+   font: Impact, fantasy 15px normal;
+   background: lightskyblue;
+}
+h1 {
+  font: 'Trebuchet MS' , Impact 33px 'ranga', cursive black;
+  text-decoration: underline;
+  margin: 0px;
+}
+
+h3 {
+  font: 'Trebuchet MS' , sans-serif 18px;
+  margin: 0px 0px 8px 0px;
+}
+h2    {
+       color: aquamarine; 
+    }
+
+a {
+  color:lightskyblue;
+   text-decoration: none;
+}
+
+a:hover {
+  color: red;
+}
+img {
+  border: double 3px navy;
+  box-shadow: -3px 0px 3px 3px navy;
+  margin: 9px;
+  width: auto;
+  Height:200;
+}  
+  header,
+  footer {
+    background:navy;
+    border-color: black;
+    border-style: double;
+    border-width: 3px;
+}
+  
+  header,
+  footer {
+  text-align: center;
+  margin: 0 -10px;
+  color:lightskyblue;
+}
+  
+section {
+  text-align: justify;
+}  
+  
+img {
+  margin: 0;
+  width: 300px;
+    
+    p{
+        align-content: center
+    }
